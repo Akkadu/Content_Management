@@ -1,18 +1,18 @@
 {
   "data": [
     {
-      "title": "Case1",
-      "description": "Why end might ask civil again spoil. She dinner she our horses depend. Remember at children by reserved to vicinity. In affronting unreserved delightful simplicity ye. Law own advantage furniture continual sweetness bed agreeable perpetual. Oh song well four only head busy it. Afford son she had lively living. Tastes lovers myself too formal season our valley boy. Lived it their their walls might to by young. Why end might ask civil again spoil. ",
-      "link": "google.com",
-      "background": "url(https://source.unsplash.com/user/pankajpatel/800x600)"
+      "title": "S3 Example",
+      "description": "Open AWS and navigate to S3. Open the bucket 'content-management' then the folder 'cases'. Upload your files here, then copy the objectURL they provide and put it in the 'url()' tag here.",
+      "link": "https://console.amazonaws.cn/s3/buckets/content-management/cases/?region=cn-north-1&tab=overview",
+      "background": "url(https://content-management.s3.cn-north-1.amazonaws.com.cn/cases/oldboy.jpg)"
     }, {
-      "title": "Case2",
-      "description": "Blind would equal while oh mr do style. Lain led and fact none. One preferred sportsmen resolving the happiness continued. High at of in loud rich true. Oh conveying do immediate acuteness in he. Equally welcome her set nothing has gravity whether parties. Fertile suppose shyness mr up pointed in staying on respect. ",
-      "link": "randomtextgenerator.com",
-      "background": "url(https://source.unsplash.com/user/erondu/800x600)"
+      "title": "Github Example",
+      "description": "You can also upload files here directly. Just drag and drop, then 'commit changes'. When it's uploaded, open it in Github then right click and 'copy image location'. It should start with 'https://raw.githubusercontent.com/'. Then paste the link in the 'url()' tag here.",
+      "link": "https://github.com/Akkadu/Content_Management/edit/master/cases",
+      "background": "url(https://raw.githubusercontent.com/Akkadu/Content_Management/master/cases/the_lighthouse-2019.jpeg)"
     }, {
       "title": "Now In Technicolor",
-      "description": "Is post each that just leaf no. He connection interested so we an sympathize advantages. To said is it shed want do.",
+      "description": "You can add images anywhere, really. Use whatever you're comfortable with, then add it to the 'url()' tag here. Not all CDNs are created equal, though, and you'll find some CDNs like S3 will perform much better than most other tools out there.",
       "link": "https://www.youtube.com/watch?v=K9dnrZdMDFs",
       "background": "url(https://source.unsplash.com/user/the_roaming_platypus/800x600)"
     }
