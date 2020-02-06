@@ -4,17 +4,17 @@
       "title": "Audi MQ! Innovation Summit 2019",
       "description": "Audience by scanning Akkadu QR code, using own mobile phone, listened the live translation.",
       "link": "https://console.amazonaws.cn/s3/buckets/content-management/cases/?region=cn-north-1&tab=overview",
-      "background": "url(https://content-management.s3.cn-north-1.amazonaws.com.cn/cases/oldboy.jpg)"
+      "background": "url(https://raw.githubusercontent.com/Akkadu/Content_Management/master/cases/audi.jpeg)"
     }, {
       "title": "Stanford-Peking university's on-line lecture",
       "description": "Students (China) and professor (US) used own language to communicate and Akkadu to listen the live translation.",
       "link": "https://github.com/Akkadu/Content_Management/edit/master/cases",
-      "background": "url(https://raw.githubusercontent.com/Akkadu/Content_Management/master/cases/the_lighthouse-2019.jpeg)"
+      "background": "url(https://raw.githubusercontent.com/Akkadu/Content_Management/master/cases/stanford.jpeg)"
     }, {
       "title": "American Chamber Technology and Innovation Summit",
       "description": "Digital healthcare panel with PwC, Merck, Phillips and GE. Audience listened to the live translation using own mobile phone.",
       "link": "https://www.youtube.com/watch?v=K9dnrZdMDFs",
-      "background": "url(https://source.unsplash.com/user/the_roaming_platypus/800x600)"
+      "background": "url(https://raw.githubusercontent.com/Akkadu/Content_Management/master/cases/amcham.jpeg)"
     }
   ],
   "zh": [
@@ -22,17 +22,17 @@
       "title": "奥迪MQ！ 2019创新峰会",
       "description": "听众通过使用自己的手机扫描Akkadu QR码，收听实时翻译",
       "link": "google.com",
-      "background": "url(https://source.unsplash.com/user/pankajpatel/800x600)"
+      "background": "url(https://raw.githubusercontent.com/Akkadu/Content_Management/master/cases/audi.jpeg)"
     }, {
       "title": "斯坦福大学在线讲座",
       "description": "学生（中国）和教授（美国）使用自己的语言进行交流，阿卡杜语则使用实时翻译",
       "link": "randomtextgenerator.com",
-      "background": "url(https://source.unsplash.com/user/erondu/800x600)"
+      "background": "url(https://raw.githubusercontent.com/Akkadu/Content_Management/master/cases/stanford.jpeg)"
     }, {
       "title": "美国商会技术与创新峰会",
       "description": "普华永道，默克，菲利普斯和GE的数字医疗专家小组。 观众使用自己的手机收听实时翻译",
       "link": "https://www.youtube.com/watch?v=K9dnrZdMDFs",
-      "background": "url(https://source.unsplash.com/user/the_roaming_platypus/800x600)"
+      "background": "url(https://raw.githubusercontent.com/Akkadu/Content_Management/master/cases/amcham.jpeg)"
     }
   ]
 }
